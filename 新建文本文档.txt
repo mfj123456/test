@@ -1,0 +1,8 @@
+<div class="col-md-3"><img src="img/oleg.png"></div>
+  		<div class="col-md-2"><img src="img/oksana.png"></div>
+  		<div class="col-md-1"><img src="img/ewelina.png"></div>
+  		<div class="col-md-1"><img src="img/juraj.png"></div>
+  		<div class="col-md-1"><img src="img/tmore.png"></div>
+
+net stop http
+Sc config http start= disabled
